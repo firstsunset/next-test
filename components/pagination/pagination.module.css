@@ -1,0 +1,17 @@
+.container {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+  width: 30%;
+  margin-top: 60px;
+}
+
+.pageLink {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
